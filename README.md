@@ -10,7 +10,7 @@ Predicting the Income Groups and Number of Immigrants by Using Machine Learning 
 - **Hakan Aydın**  
   Department of Computer Engineering, Faculty of Engineering and Architecture, Istanbul Gelisim University, Istanbul, Turkey
 
-- **Ali Çetinkaya**  
+- [**Ali Çetinkaya**](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ) 
   Department of Electronics Technology, Istanbul Gelisim Vocational School, Istanbul Gelisim University, Istanbul, Turkey
 
 - **Doğan Şafak Polat**  
