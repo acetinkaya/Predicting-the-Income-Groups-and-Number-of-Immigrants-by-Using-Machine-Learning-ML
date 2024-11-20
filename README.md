@@ -43,3 +43,4 @@ This work is licensed under a [Creative Commons Attribution-Non Commercial 4.0 I
 
 ---
 
+![alternatif metin](https://github.com/acetinkaya/Predicting-the-Income-Groups-and-Number-of-Immigrants-by-Using-Machine-Learning-ML/blob/main/yz-predicting.png)
