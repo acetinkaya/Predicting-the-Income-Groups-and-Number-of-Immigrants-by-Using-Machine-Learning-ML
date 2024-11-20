@@ -32,11 +32,11 @@ Keywords: Artificial Intelligence (AI), Machine Learning (ML), Migration, Data S
 
 ## How to Cite
 
-- **IEEE**: H. AYDIN, MA BARIŞKAN ve A. ÇETİNKAYA, “SİBER GÜVENLİK KAPSAMINDA ENERJİ SİSTEMLERİ GÜVENLİĞİNİN DEĞERLENDİRİLMESİ,” Güvenlik Bilimleri Dergisi , s. 151–174, Mayıs 2021, doi: https://doi.org/10.28956/gbd.941801 .
+- **IEEE**: B. Aydemir, H. Aydın, A. Çetinkaya, and D. Ş. Polat, “Predicting the Income Groups and Number of Immigrants by Using Machine Learning (ML)”, IJMSIT, vol. 6, no. 2, pp. 162–168, 2022.
 
-- **APA**: Aydın, H., Barışkan, M. A., & Çetinkaya, A. (2021). SİBER GÜVENLİK KAPSAMINDA ENERJİ SİSTEMLERİ GÜVENLİĞİNİN DEĞERLENDİRİLMESİ. Güvenlik Bilimleri Dergisi, 10(1), 151-174. https://doi.org/10.28956/gbd.941801
+- **APA**: Aydemir, B., Aydın, H., Çetinkaya, A., & Polat, D. Ş. (2022). Predicting the Income Groups and Number of Immigrants by Using Machine Learning (ML). International Journal of Multidisciplinary Studies and Innovative Technologies, 6(2), 162-168.
 
-- **MLA**: Aydın, Hakan, Mehmet Ali Barışkan, and Ali Çetinkaya. "SİBER GÜVENLİK KAPSAMINDA ENERJİ SİSTEMLERİ GÜVENLİĞİNİN DEĞERLENDİRİLMESİ." Güvenlik Bilimleri Dergisi 10.1 (2021): 151-174. doi: [10.28956/gbd.941801]( https://doi.org/10.28956/gbd.941801).
+- **MLA**: Aydemir, Belgin, et al. "Predicting the Income Groups and Number of Immigrants by Using Machine Learning (ML)." International Journal of Multidisciplinary Studies and Innovative Technologies 6.2 (2022): 162-168.
 
 ## License
 This work is licensed under a [Creative Commons Attribution-Non Commercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/), allowing non-commercial sharing and adaptation with proper attribution.
